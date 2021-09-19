@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnsus1995
 - 👀 I’m interested in Responsive web development
 - 🌱 I’m currently learning advanced REACT Js
-- 💞️ I’m looking to collaborate on anything related to WEB
+- 💞️ I’m looking to collaborate on anything related to Frontend
 - 📫 Reach me on +918891562112 or thejohnjaison@yahoo.com
 
 <!---
