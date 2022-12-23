@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a full stack ERP app. I'm willing to collaborate on web technologies and I'm currently learning Node.js. Ask me about JavaScript<br>Fun fact, I drink coffee without sugar!
+I'm currently working on a full stack ERP app.<br> Ask me about JavaScript<br>Fun fact, I drink coffee without sugar!
 
 
 ## 🌐 Socials:
