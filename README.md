@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer at White rabbit group<br> I'm currently working on a full stack ERP app.<br> Ask me about JavaScript.<br>
+Software engineer at White rabbit group<br> I'm currently working on a MERN stack ERP app.<br> Ask me about JavaScript.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaison-john-20081418a/) 
